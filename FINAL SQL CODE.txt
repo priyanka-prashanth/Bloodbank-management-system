@@ -58,7 +58,7 @@ INSERT INTO bloodbank.Inventory values ('AB-','450');
 INSERT INTO bloodbank.Inventory values ('O+','700');
 INSERT INTO bloodbank.Inventory values ('O-','600');
 
-//this is to showw to ma'am during the presentation
+//sample
 
 INSERT INTO bloodbank.persons values ('p11', 'Sid', '30', 'M', '68', 'O+', 'D');
 
